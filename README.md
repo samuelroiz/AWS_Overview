@@ -31,7 +31,7 @@ Overview and important notes on Amazon Web Services on how it works, references,
 ## Bucket's
 
 ### How to create a bucket? 
-1. Go to home page
+1. Go to home page ![Step 1 of creating bucket](https://github.com/samuelroiz/AWS_Overview/blob/main/Images/Bucket/Create/create_bucket_in_S3_step_1.png)
 2. Find the search bar in top middle of the page
 3. Type in <b> S3 </b>
 4. Select <b> S3 </b>
