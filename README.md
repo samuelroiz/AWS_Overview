@@ -27,3 +27,56 @@ Overview and important notes on Amazon Web Services on how it works, references,
 * [Glacier](https://www.whizlabs.com/blog/what-is-amazon-glacier/#:~:text=Amazon%20Web%20Services%20Amazon%20Glacier%20is%20considered%20as,to%20archive%20storage%20for%20saving%20costs%20on%20storage.)
 * [Elastic Block Store (ESB)](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/AmazonEBS.html)
 * [Elastic File System (EFS)](https://docs.aws.amazon.com/efs/latest/ug/whatisefs.html)
+
+## Bucket's
+
+### How to create a bucket? 
+1. Go to home page
+2. Find the search bar in top middle of the page
+3. Type in <b> S3 </b>
+4. Select <b> S3 </b>
+5. Select <i> Create bucket </i>
+6. Give unique name (a name not taken)
+7. Select <i> US East (N. Virginia) us-east-1 </i> (some regions do not support all services)
+8. Select <i> ACLs disabled </i> (Leave other settings as is since by default the bucket is private)
+9. Select <i> Block all public access </i> (Leave settings as is since by default the bucket is private)
+10. Select <i> Bucket Versioning disabled </i> (Leave settings as is since by default the bucket is private)
+11. Select <i> Server-side encryption disabled </i> (Leave settings as is since by default the bucket is private)
+12. Finally, select <i> Create Bucket </i>
+
+### How to upload files to bucket?
+1. Find the search bar in top middle of the page
+2. Type in <b> S3 </b>
+3. Select <b> S3 </b>
+4. Select <b> Buckets </b>
+5. Select bucket
+6. Select <i> Upload </i>
+7. Ways to upload files... One, drag a folder or files from local device to <b> S3 Management Console </b> screen. Two, select <i> Add files </i> / <i> Add folder </i> then select file(s) or folder to upload
+8. Leave the other settings alone
+9. Select <i> Upload </i>
+10. Wait and check if files uploaded successfully
+11. Select <i> Close </i>
+
+### How to download files from bucket? 
+1. Find the search bar in top middle of the page
+2. Type in <b> S3 </b>
+3. Select <b> S3 </b>
+4. Select <b> Buckets </b>
+5. Select <i> Bucket </i>
+6. Select <i> File </i>
+7. Select <i> Download </i>
+
+### How to delete bucket(s)? 
+1. Find the search bar in top middle of the page
+2. Type in <b> S3 </b>
+3. Select <b> S3 </b>
+4. Select <b> Buckets </b>
+5. Select <i> Bucket(s) </i> circle icon
+6. Select <i> Empty </i>
+7. Type in "permanently delete"
+8. Wait and check if files emptied successfully
+9. Select <i> Exit </i>
+10. Select <i> Bucket(s) </i> circle icon
+11. Select <i> Delete </i>
+12. Type in the name of the bucket 
+13. Select <i> Delete bucket </i>
