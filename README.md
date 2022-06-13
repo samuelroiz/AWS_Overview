@@ -31,19 +31,32 @@ Overview and important notes on Amazon Web Services on how it works, references,
 ## Bucket's
 
 ### How to create a bucket? 
-1. Go to home page ![Step 1 of creating bucket](https://github.com/samuelroiz/AWS_Overview/blob/main/Images/Bucket/Create/create_bucket_in_S3_step_1.png)
-2. Find the search bar in top middle of the page ![Step 2 of creating bucket](https://github.com/samuelroiz/AWS_Overview/blob/main/Images/Bucket/Create/create_bucket_in_S3_step_2.png)
-3. Type in <b> S3 </b> ![Step 3 of creating bucket](https://github.com/samuelroiz/AWS_Overview/blob/main/Images/Bucket/Create/create_bucket_in_S3_step_3.png)
-4. Select <b> S3 </b> ![Step 4 of creating bucket](https://github.com/samuelroiz/AWS_Overview/blob/main/Images/Bucket/Create/create_bucket_in_S3_step_4.png)
-5. Select <i> Create bucket </i> ![Step 5 of creating bucket](https://github.com/samuelroiz/AWS_Overview/blob/main/Images/Bucket/Create/create_bucket_in_S3_step_5.png)
-6. Give unique name (a name not taken) ![Step 6 of creating bucket](https://github.com/samuelroiz/AWS_Overview/blob/main/Images/Bucket/Create/create_bucket_in_S3_step_6.png)
-7. Select <i> US East (N. Virginia) us-east-1 </i> (some regions do not support all services) ![Step 7 of creating bucket](https://github.com/samuelroiz/AWS_Overview/blob/main/Images/Bucket/Create/create_bucket_in_S3_step_7.png)
-8. Select <i> ACLs disabled </i> (Leave other settings as is since by default the bucket is private) ![Step 8 of creating bucket](https://github.com/samuelroiz/AWS_Overview/blob/main/Images/Bucket/Create/create_bucket_in_S3_step_8.png)
-9. Select <i> Block all public access </i> (Leave settings as is since by default the bucket is private) ![Step 9 of creating bucket](https://github.com/samuelroiz/AWS_Overview/blob/main/Images/Bucket/Create/create_bucket_in_S3_step_9.png)
-10. Select <i> Bucket Versioning disabled </i> (Leave settings as is since by default the bucket is private) ![Step 10 of creating bucket](https://github.com/samuelroiz/AWS_Overview/blob/main/Images/Bucket/Create/create_bucket_in_S3_step_10.png)
-11. Select <i> Server-side encryption disabled </i> (Leave settings as is since by default the bucket is private) ![Step 11 of creating bucket](https://github.com/samuelroiz/AWS_Overview/blob/main/Images/Bucket/Create/create_bucket_in_S3_step_11.png)
-12. Finally, select <i> Create Bucket </i> ![Step 12 of creating bucket](https://github.com/samuelroiz/AWS_Overview/blob/main/Images/Bucket/Create/create_bucket_in_S3_step_12.png)
-
+<pre>
+1. Go to home page 
+![Step 1 of creating bucket](https://github.com/samuelroiz/AWS_Overview/blob/main/Images/Bucket/Create/create_bucket_in_S3_step_1.png)
+2. Find the search bar in top middle of the page 
+![Step 2 of creating bucket](https://github.com/samuelroiz/AWS_Overview/blob/main/Images/Bucket/Create/create_bucket_in_S3_step_2.png)
+3. Type in <b> S3 </b> 
+![Step 3 of creating bucket](https://github.com/samuelroiz/AWS_Overview/blob/main/Images/Bucket/Create/create_bucket_in_S3_step_3.png)
+4. Select <b> S3 </b> 
+![Step 4 of creating bucket](https://github.com/samuelroiz/AWS_Overview/blob/main/Images/Bucket/Create/create_bucket_in_S3_step_4.png)
+5. Select <i> Create bucket </i> 
+![Step 5 of creating bucket](https://github.com/samuelroiz/AWS_Overview/blob/main/Images/Bucket/Create/create_bucket_in_S3_step_5.png)
+6. Give unique name (a name not taken) 
+![Step 6 of creating bucket](https://github.com/samuelroiz/AWS_Overview/blob/main/Images/Bucket/Create/create_bucket_in_S3_step_6.png)
+7. Select <i> US East (N. Virginia) us-east-1 </i> (some regions do not support all services) 
+![Step 7 of creating bucket](https://github.com/samuelroiz/AWS_Overview/blob/main/Images/Bucket/Create/create_bucket_in_S3_step_7.png)
+8. Select <i> ACLs disabled </i> (Leave other settings as is since by default the bucket is private) 
+![Step 8 of creating bucket](https://github.com/samuelroiz/AWS_Overview/blob/main/Images/Bucket/Create/create_bucket_in_S3_step_8.png)
+9. Select <i> Block all public access </i> (Leave settings as is since by default the bucket is private) 
+![Step 9 of creating bucket](https://github.com/samuelroiz/AWS_Overview/blob/main/Images/Bucket/Create/create_bucket_in_S3_step_9.png)
+10. Select <i> Bucket Versioning disabled </i> (Leave settings as is since by default the bucket is private) 
+![Step 10 of creating bucket](https://github.com/samuelroiz/AWS_Overview/blob/main/Images/Bucket/Create/create_bucket_in_S3_step_10.png)
+11. Select <i> Server-side encryption disabled </i> (Leave settings as is since by default the bucket is private) 
+![Step 11 of creating bucket](https://github.com/samuelroiz/AWS_Overview/blob/main/Images/Bucket/Create/create_bucket_in_S3_step_11.png)
+12. Finally, select <i> Create Bucket </i> 
+![Step 12 of creating bucket](https://github.com/samuelroiz/AWS_Overview/blob/main/Images/Bucket/Create/create_bucket_in_S3_step_12.png)
+</pre>
 ### How to upload files to bucket?
 1. Find the search bar in top middle of the page
 2. Type in <b> S3 </b>
