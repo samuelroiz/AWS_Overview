@@ -22,7 +22,7 @@ Overview and important notes on Amazon Web Services on how it works, references,
 * [Overview of Security Processes](https://d0.awsstatic.com/whitepapers/Security/AWS_Security_Whitepaper.pdf)
 
 ## Types of Storage Services
-![Type of Storage Services](https://github.com/samuelroiz/AWS_Overview/blob/main/AWS_storage_list.pdf)
+![Type of Storage Services]([https://github.com/samuelroiz/AWS_Overview/blob/main/AWS_storage_list.pdf](https://github.com/samuelroiz/AWS_Overview/blob/main/Images/AWS_storage_list.png))
 * [Simple Storage Service (S3)](https://docs.aws.amazon.com/AmazonS3/latest/userguide/Welcome.html)
 * [Glacier](https://www.whizlabs.com/blog/what-is-amazon-glacier/#:~:text=Amazon%20Web%20Services%20Amazon%20Glacier%20is%20considered%20as,to%20archive%20storage%20for%20saving%20costs%20on%20storage.)
 * [Elastic Block Store (ESB)](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/AmazonEBS.html)
