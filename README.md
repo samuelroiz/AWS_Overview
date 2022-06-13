@@ -44,6 +44,7 @@ Overview and important notes on Amazon Web Services on how it works, references,
 11. Select <i> Server-side encryption disabled </i> (Leave settings as is since by default the bucket is private)
 12. Finally, select <i> Create Bucket </i>
 
+#### How to create a bucket? (w/ visualization)
 1. Go to home page ![Step 1 of creating bucket](https://github.com/samuelroiz/AWS_Overview/blob/main/Images/Bucket/Create/create_bucket_in_S3_step_1.png)
 2. Find the search bar in top middle of the page ![Step 2 of creating bucket](https://github.com/samuelroiz/AWS_Overview/blob/main/Images/Bucket/Create/create_bucket_in_S3_step_2.png)
 3. Type in <b> S3 </b> ![Step 3 of creating bucket](https://github.com/samuelroiz/AWS_Overview/blob/main/Images/Bucket/Create/create_bucket_in_S3_step_3.png)
