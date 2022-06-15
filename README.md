@@ -87,12 +87,21 @@ Overview and important notes on Amazon Web Services on how it works, references,
 
 ### How to download files from bucket? 
 1. Find the search bar in top middle of the page
+2. Type in <b> S3 </b> 
+3. Select <b> S3 </b> 
+4. Select <b> Buckets </b> 
+5. Select <i> Bucket </i> 
+6. Select <i> File </i> 
+7. Select <i> Download </i> 
+
+#### w/ visualization
+1. Find the search bar in top middle of the page ![Step 1 to S3](https://github.com/samuelroiz/AWS_Overview/blob/main/Images/Bucket/Download/basic_steps_to_s3_step_1.png)
 2. Type in <b> S3 </b>
-3. Select <b> S3 </b>
-4. Select <b> Buckets </b>
-5. Select <i> Bucket </i>
-6. Select <i> File </i>
-7. Select <i> Download </i>
+3. Select <b> S3 </b> ![Step 2 to S3](https://github.com/samuelroiz/AWS_Overview/blob/main/Images/Bucket/Download/basic_steps_to_s3_step_2.png)
+4. Select <b> Buckets </b> ![Step 3 of to S3](https://github.com/samuelroiz/AWS_Overview/blob/main/Images/Bucket/Upload/basic_steps_to_s3_buckets_step_3.png)
+5. Select <i> Bucket </i> ![Step 4 of to S3](https://github.com/samuelroiz/AWS_Overview/blob/main/Images/Bucket/Upload/upload_to_bucket_in_S3_step_1.png)
+6. Select <i> File </i> ![Step 1 of download files in S3](https://github.com/samuelroiz/AWS_Overview/blob/main/Images/Bucket/Download/download_from_bucket_in_S3_step_1.png)
+7. Select <i> Download </i> ![Step 2 of download files in S3](https://github.com/samuelroiz/AWS_Overview/blob/main/Images/Bucket/Download/download_from_bucket_in_S3_step_2.png)
 
 ### How to delete bucket(s)? 
 1. Find the search bar in top middle of the page
