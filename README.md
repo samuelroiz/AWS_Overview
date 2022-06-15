@@ -117,3 +117,18 @@ Overview and important notes on Amazon Web Services on how it works, references,
 11. Select <i> Delete </i>
 12. Type in the name of the bucket 
 13. Select <i> Delete bucket </i>
+
+#### w/ visualization
+1. Find the search bar in top middle of the page ![Step 1 to S3](https://github.com/samuelroiz/AWS_Overview/blob/main/Images/Bucket/Delete/basic_steps_to_s3_step_1.png)
+2. Type in <b> S3 </b>
+3. Select <b> S3 </b> ![Step 2 to S3](https://github.com/samuelroiz/AWS_Overview/blob/main/Images/Bucket/Delete/basic_steps_to_s3_step_2.png)
+4. Select <b> Buckets </b> ![Step 3 to S3](https://github.com/samuelroiz/AWS_Overview/blob/main/Images/Bucket/Delete/basic_steps_to_s3_buckets_step_3.png)
+5. Select <i> Bucket(s) </i> circle icon ![Step 1 of delete bucket](https://github.com/samuelroiz/AWS_Overview/blob/main/Images/Bucket/Delete/delete_bucket_in_S3_step_1.png)
+6. Select <i> Empty </i> ![Step 2 of delete bucket](https://github.com/samuelroiz/AWS_Overview/blob/main/Images/Bucket/Delete/delete_bucket_in_S3_step_2.png)
+7. Type in "permanently delete"
+8. Wait and check if files emptied successfully ![Step 3 of delete bucket](https://github.com/samuelroiz/AWS_Overview/blob/main/Images/Bucket/Delete/delete_bucket_in_S3_step_3.png)
+9. Select <i> Exit </i> ![Step 4 of delete bucket](https://github.com/samuelroiz/AWS_Overview/blob/main/Images/Bucket/Delete/delete_bucket_in_S3_step_4.png)
+10. Select <i> Bucket(s) </i> circle icon ![Step 5 of delete bucket](https://github.com/samuelroiz/AWS_Overview/blob/main/Images/Bucket/Delete/delete_bucket_in_S3_step_5.png)
+11. Select <i> Delete </i> ![Step 6 of delete bucket](https://github.com/samuelroiz/AWS_Overview/blob/main/Images/Bucket/Delete/delete_bucket_in_S3_step_6.png)
+12. Type in the name of the bucket ![Step 1 of delete bucket](https://github.com/samuelroiz/AWS_Overview/blob/main/Images/Bucket/Delete/delete_bucket_in_S3_step_7.png)
+13. Select <i> Delete bucket </i> ![Step 1 of delete bucket](https://github.com/samuelroiz/AWS_Overview/blob/main/Images/Bucket/Delete/delete_bucket_in_S3_step_8.png)
