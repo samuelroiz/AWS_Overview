@@ -71,6 +71,20 @@ Overview and important notes on Amazon Web Services on how it works, references,
 10. Wait and check if files uploaded successfully
 11. Select <i> Close </i>
 
+#### w/ visualization
+1. Go to home page ![Homepage](https://github.com/samuelroiz/AWS_Overview/blob/main/Images/Bucket/Create/homepage_amazon.png)
+2. Find the search bar in top middle of the page ![Step 1 of to S3](https://github.com/samuelroiz/AWS_Overview/blob/main/Images/Bucket/Upload/basic_steps_to_s3_step_1.png)
+3. Type in <b> S3 </b> 
+4. Select <b> S3 </b> ![Step 2 of to S3](https://github.com/samuelroiz/AWS_Overview/blob/main/Images/Bucket/Upload/basic_steps_to_s3_step_2.png)
+5. Select <b> Buckets <b> ![Step 3 of to S3](https://github.com/samuelroiz/AWS_Overview/blob/main/Images/Bucket/Upload/basic_steps_to_s3_buckets_step_3.png)
+6. Select bucket ![Step 1 of upload files to bucket](https://github.com/samuelroiz/AWS_Overview/blob/main/Images/Bucket/Upload/upload_to_bucket_in_S3_step_1.png)
+6. Select <i> Upload </i> ![Step 2 of upload files to bucket](https://github.com/samuelroiz/AWS_Overview/blob/main/Images/Bucket/Upload/upload_to_bucket_in_S3_step_2.png)
+7. Ways to upload files... One, drag a folder or files from local device to <b> S3 Management Console </b> screen. Two, select <i> Add files </i> / <i> Add folder </i> then select file(s) or folder to upload ![Step 3 of upload files to bucket](https://github.com/samuelroiz/AWS_Overview/blob/main/Images/Bucket/Upload/upload_to_bucket_in_S3_step_3.png)
+8. Leave the other settings alone
+9. Select <i> Upload </i> ![Step 4 of upload files to bucket](https://github.com/samuelroiz/AWS_Overview/blob/main/Images/Bucket/Upload/upload_to_bucket_in_S3_step_4.png)
+10. Wait and check if files uploaded successfully ![Step 5 of upload files to bucket](https://github.com/samuelroiz/AWS_Overview/blob/main/Images/Bucket/Upload/upload_to_bucket_in_S3_step_5.png)
+11. Select <i> Close </i>
+
 ### How to download files from bucket? 
 1. Find the search bar in top middle of the page
 2. Type in <b> S3 </b>
