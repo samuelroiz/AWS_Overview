@@ -179,3 +179,28 @@ Overview and important notes on Amazon Web Services on how it works, references,
 19. Select <b> Next </b> ![Step 19 of setting up budget](https://github.com/samuelroiz/AWS_Overview/blob/main/Images/Budget/Set_Budget_Cost/set_budget_cost_step_19.png)
 20. Select <b> Next </b> ![Step 20 of setting up budget](https://github.com/samuelroiz/AWS_Overview/blob/main/Images/Budget/Set_Budget_Cost/set_budget_cost_step_20.png)
 21. Select <b> Create Budget </b> ![Step 21 of setting up budget](https://github.com/samuelroiz/AWS_Overview/blob/main/Images/Budget/Set_Budget_Cost/set_budget_cost_step_21.png)
+  
+## Contributing
+
+Please read [CONTRIBUTING.md](https://gist.github.com/samuelroiz/1af49ec9eea365bc845ba04c5071a976) for details on our code of conduct, and the process for submitting pull requests to us.
+
+## Versioning
+
+We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
+
+## Authors
+
+* **Samuel Roiz** - *Author* - [GitHub](https://github.com/samuelroiz)
+
+See also the list of [contributors](https://github.com/samuelroiz) who participated in this project.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](https://gist.github.com/samuelroiz/1af49ec9eea365bc845ba04c5071a976) file for details
+
+## Acknowledgments
+
+* Backspace
+* Backspace Udemy
+* Sunstone Secure
+* CSUN Mathematics
