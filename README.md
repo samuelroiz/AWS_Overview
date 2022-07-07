@@ -204,3 +204,26 @@ This project is licensed under the MIT License - see the [LICENSE.md](https://gi
 * Backspace Udemy
 * Sunstone Secure
 * CSUN Mathematics
+
+## Test Section
+
+<details>
+    <summary>CocoaPods</summary>
+    Add the following line to your `Podfile`:
+    
+    ```ruby 
+    pod 'YourAwesomeLibrary'
+    ```
+    </details>
+    <details>
+    <summary>Carthage</summary>
+    Add the following line to your `Cartfile`:
+    
+    ```swift
+    github "YourUsername/YourAwesomeLibrary"
+    ```
+    </details>
+    <details>
+    <summary>Manual</summary>
+    Clone the repo and drag and drop the files into your project.
+</details>
