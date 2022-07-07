@@ -214,16 +214,16 @@ This project is licensed under the MIT License - see the [LICENSE.md](https://gi
     ```ruby 
     pod 'YourAwesomeLibrary'
     ```
-    </details>
-    <details>
+</details>
+<details>
     <summary>Carthage</summary>
     Add the following line to your `Cartfile`:
     
     ```swift
     github "YourUsername/YourAwesomeLibrary"
     ```
-    </details>
-    <details>
+</details>
+<details>
     <summary>Manual</summary>
     Clone the repo and drag and drop the files into your project.
 </details>
