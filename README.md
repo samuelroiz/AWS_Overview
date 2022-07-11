@@ -306,22 +306,22 @@ Overview and important notes on Amazon Web Services on how it works, references,
 16. Select **Ok**
 
 #### w/ visualizations
-1.  Find the search bar in top middle of the page ![Step 1 of connecting a database]((https://github.com/samuelroiz/AWS_Overview/blob/main/Images/How_to_connect_database/how_to_connect_database_step_1)
+1.  Find the search bar in top middle of the page ![Step 1 of connecting a database](https://github.com/samuelroiz/AWS_Overview/blob/main/Images/How_to_connect_database/how_to_connect_database_step_1.jpg)
 2.  Type in  **Databases**
-3.  Select  **Databases in RDS** ![Step 3 of connecting a database]((https://github.com/samuelroiz/AWS_Overview/blob/main/Images/How_to_connect_database/how_to_connect_database_step_2)
-4. Select **Database** ![Step 4 of connecting a database]((https://github.com/samuelroiz/AWS_Overview/blob/main/Images/How_to_connect_database/how_to_connect_database_step_4)
-5.  Get *Endpoint & port information* ![Step 5 of connecting a database]((https://github.com/samuelroiz/AWS_Overview/blob/main/Images/How_to_connect_database/how_to_connect_database_step_5)
-6. Download **open source database** ![Step 6 of connecting a database]((https://github.com/samuelroiz/AWS_Overview/blob/main/Images/How_to_connect_database/how_to_connect_database_step_6)
-7. Select **+** ![Step 7 of connecting a database]((https://github.com/samuelroiz/AWS_Overview/blob/main/Images/How_to_connect_database/how_to_connect_database_step_7)
-8. Input *connection name* ![Step 8 of connecting a database]((https://github.com/samuelroiz/AWS_Overview/blob/main/Images/How_to_connect_database/how_to_connect_database_step_8)
-9. Select *Standard* ![Step 9 of connecting a database]((https://github.com/samuelroiz/AWS_Overview/blob/main/Images/How_to_connect_database/how_to_connect_database_step_9)
-10. Copy *End point* information from step 5 ![Step 10 of connecting a database]((https://github.com/samuelroiz/AWS_Overview/blob/main/Images/How_to_connect_database/how_to_connect_database_step_10)
-11.  Paste *End point* information ![Step 11 of connecting a database]((https://github.com/samuelroiz/AWS_Overview/blob/main/Images/How_to_connect_database/how_to_connect_database_step_11)
-12. Input *username* (username you input in RDS database) ![Step 12 of connecting a database]((https://github.com/samuelroiz/AWS_Overview/blob/main/Images/How_to_connect_database/how_to_connect_database_step_12)
-13. Select **Test connection** ![Step 13 of connecting a database]((https://github.com/samuelroiz/AWS_Overview/blob/main/Images/How_to_connect_database/how_to_connect_database_step_13)
-14. Input *password* ![Step 14 of connecting a database]((https://github.com/samuelroiz/AWS_Overview/blob/main/Images/How_to_connect_database/how_to_connect_database_step_14)
+3.  Select  **Databases in RDS** ![Step 3 of connecting a database](https://github.com/samuelroiz/AWS_Overview/blob/main/Images/How_to_connect_database/how_to_connect_database_step_2.jpg)
+4. Select **Database** ![Step 4 of connecting a database](https://github.com/samuelroiz/AWS_Overview/blob/main/Images/How_to_connect_database/how_to_connect_database_step_4.jpg)
+5.  Get *Endpoint & port information* ![Step 5 of connecting a database](https://github.com/samuelroiz/AWS_Overview/blob/main/Images/How_to_connect_database/how_to_connect_database_step_5.jpg)
+6. Download **open source database** ![Step 6 of connecting a database](https://github.com/samuelroiz/AWS_Overview/blob/main/Images/How_to_connect_database/how_to_connect_database_step_6.jpg)
+7. Select **+** ![Step 7 of connecting a database](https://github.com/samuelroiz/AWS_Overview/blob/main/Images/How_to_connect_database/how_to_connect_database_step_7.jpg)
+8. Input *connection name* ![Step 8 of connecting a database](https://github.com/samuelroiz/AWS_Overview/blob/main/Images/How_to_connect_database/how_to_connect_database_step_8.jpg)
+9. Select *Standard* ![Step 9 of connecting a database](https://github.com/samuelroiz/AWS_Overview/blob/main/Images/How_to_connect_database/how_to_connect_database_step_9.jpg)
+10. Copy *End point* information from step 5 ![Step 10 of connecting a database](https://github.com/samuelroiz/AWS_Overview/blob/main/Images/How_to_connect_database/how_to_connect_database_step_10.jpg)
+11.  Paste *End point* information ![Step 11 of connecting a database](https://github.com/samuelroiz/AWS_Overview/blob/main/Images/How_to_connect_database/how_to_connect_database_step_11.jpg)
+12. Input *username* (username you input in RDS database) ![Step 12 of connecting a database](https://github.com/samuelroiz/AWS_Overview/blob/main/Images/How_to_connect_database/how_to_connect_database_step_12.jpg)
+13. Select **Test connection** ![Step 13 of connecting a database]((https://github.com/samuelroiz/AWS_Overview/blob/main/Images/How_to_connect_database/how_to_connect_database_step_13.jpg)
+14. Input *password* ![Step 14 of connecting a database](https://github.com/samuelroiz/AWS_Overview/blob/main/Images/How_to_connect_database/how_to_connect_database_step_14)
 15. If successful, select **Ok**. If unsuccessful, repeat **Create Security group** and **Create database** again
-16. Select **Ok** ![Step 16 of connecting a database]((https://github.com/samuelroiz/AWS_Overview/blob/main/Images/How_to_connect_database/how_to_connect_database_step_16)
+16. Select **Ok** ![Step 16 of connecting a database](https://github.com/samuelroiz/AWS_Overview/blob/main/Images/How_to_connect_database/how_to_connect_database_step_16.jpg)
 
 ### How to delete database? 
 1. Find the search bar in top middle of the page
@@ -337,17 +337,17 @@ Overview and important notes on Amazon Web Services on how it works, references,
 11. Wait until you receive successful message
 
 #### w/ visualizations
-1. Find the search bar in top middle of the page ![Step 1 of deleting a database](https://github.com/samuelroiz/AWS_Overview/blob/main/Images/How_to_delete_database/how_to_delete_database_step_1)
-2. Type in  **Databases** ![Step 2 of deleting a database](https://github.com/samuelroiz/AWS_Overview/blob/main/Images/How_to_delete_database/how_to_delete_database_step_2_and_3)
-3.  Select  **Databases in RDS** ![Step 3 of deleting a database](https://github.com/samuelroiz/AWS_Overview/blob/main/Images/How_to_delete_database/how_to_delete_database_step_2_and_3)
-4. Select *database icon* ![Step 4 of deleting a database](https://github.com/samuelroiz/AWS_Overview/blob/main/Images/How_to_delete_database/how_to_delete_database_step_4)
-5. Select *Actions* ![Step 5 of deleting a database](https://github.com/samuelroiz/AWS_Overview/blob/main/Images/How_to_delete_database/how_to_delete_database_step_5)
-6. Select Delete ![Step 6 of deleting a database](https://github.com/samuelroiz/AWS_Overview/blob/main/Images/How_to_delete_database/how_to_delete_database_step_6)
-7. Unselect *Create final snapshot?* ![Step 7 of deleting a database](https://github.com/samuelroiz/AWS_Overview/blob/main/Images/How_to_delete_database/how_to_delete_database_step_7)
-8. Select *I acknowledge..." ![Step 8 of deleting a database](https://github.com/samuelroiz/AWS_Overview/blob/main/Images/How_to_delete_database/how_to_delete_database_step_8)
-9. Input "delete me" ![Step 9 of deleting a database](https://github.com/samuelroiz/AWS_Overview/blob/main/Images/How_to_delete_database/how_to_delete_database_step_9)
-10.  Select **Delete** ![Step 10 of deleting a database](https://github.com/samuelroiz/AWS_Overview/blob/main/Images/How_to_delete_database/how_to_delete_database_step_10)
-11. Wait until you receive successful message ![Step 11 of deleting a database](https://github.com/samuelroiz/AWS_Overview/blob/main/Images/How_to_delete_database/how_to_delete_database_step_11)
+1. Find the search bar in top middle of the page ![Step 1 of deleting a database](https://github.com/samuelroiz/AWS_Overview/blob/main/Images/How_to_delete_database/how_to_delete_database_step_1.jpg)
+2. Type in  **Databases** ![Step 2 of deleting a database](https://github.com/samuelroiz/AWS_Overview/blob/main/Images/How_to_delete_database/how_to_delete_database_step_2_and_3.jpg)
+3.  Select  **Databases in RDS** ![Step 3 of deleting a database](https://github.com/samuelroiz/AWS_Overview/blob/main/Images/How_to_delete_database/how_to_delete_database_step_2_and_3.jpg)
+4. Select *database icon* ![Step 4 of deleting a database](https://github.com/samuelroiz/AWS_Overview/blob/main/Images/How_to_delete_database/how_to_delete_database_step_4.jpg)
+5. Select *Actions* ![Step 5 of deleting a database](https://github.com/samuelroiz/AWS_Overview/blob/main/Images/How_to_delete_database/how_to_delete_database_step_5.jpg)
+6. Select Delete ![Step 6 of deleting a database](https://github.com/samuelroiz/AWS_Overview/blob/main/Images/How_to_delete_database/how_to_delete_database_step_6.jpg)
+7. Unselect *Create final snapshot?* ![Step 7 of deleting a database](https://github.com/samuelroiz/AWS_Overview/blob/main/Images/How_to_delete_database/how_to_delete_database_step_7.jpg)
+8. Select *I acknowledge..." ![Step 8 of deleting a database](https://github.com/samuelroiz/AWS_Overview/blob/main/Images/How_to_delete_database/how_to_delete_database_step_8.jpg)
+9. Input "delete me" ![Step 9 of deleting a database](https://github.com/samuelroiz/AWS_Overview/blob/main/Images/How_to_delete_database/how_to_delete_database_step_9.jpg)
+10.  Select **Delete** ![Step 10 of deleting a database](https://github.com/samuelroiz/AWS_Overview/blob/main/Images/How_to_delete_database/how_to_delete_database_step_10.jpg)
+11. Wait until you receive successful message ![Step 11 of deleting a database](https://github.com/samuelroiz/AWS_Overview/blob/main/Images/How_to_delete_database/how_to_delete_database_step_11.jpg)
 
 ## Contributing
 
