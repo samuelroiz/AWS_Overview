@@ -337,17 +337,17 @@ Overview and important notes on Amazon Web Services on how it works, references,
 11. Wait until you receive successful message
 
 #### w/ visualizations
-1. Find the search bar in top middle of the page ![Step 1 of deleting a database]((https://github.com/samuelroiz/AWS_Overview/blob/main/Images/How_to_delete_database/how_to_delete_database_step_1)
-2. Type in  **Databases** ![Step 2 of deleting a database]((https://github.com/samuelroiz/AWS_Overview/blob/main/Images/How_to_delete_database/how_to_delete_database_step_2_and_3)
-3.  Select  **Databases in RDS** ![Step 3 of deleting a database]((https://github.com/samuelroiz/AWS_Overview/blob/main/Images/How_to_delete_database/how_to_delete_database_step_2_and_3)
-4. Select *database icon* ![Step 4 of deleting a database]((https://github.com/samuelroiz/AWS_Overview/blob/main/Images/How_to_delete_database/how_to_delete_database_step_4)
-5. Select *Actions* ![Step 5 of deleting a database]((https://github.com/samuelroiz/AWS_Overview/blob/main/Images/How_to_delete_database/how_to_delete_database_step_5)
-6. Select Delete ![Step 6 of deleting a database]((https://github.com/samuelroiz/AWS_Overview/blob/main/Images/How_to_delete_database/how_to_delete_database_step_6)
-7. Unselect *Create final snapshot?* ![Step 7 of deleting a database]((https://github.com/samuelroiz/AWS_Overview/blob/main/Images/How_to_delete_database/how_to_delete_database_step_7)
-8. Select *I acknowledge..." ![Step 8 of deleting a database]((https://github.com/samuelroiz/AWS_Overview/blob/main/Images/How_to_delete_database/how_to_delete_database_step_8)
-9. Input "delete me" ![Step 9 of deleting a database]((https://github.com/samuelroiz/AWS_Overview/blob/main/Images/How_to_delete_database/how_to_delete_database_step_9)
-10.  Select **Delete** ![Step 10 of deleting a database]((https://github.com/samuelroiz/AWS_Overview/blob/main/Images/How_to_delete_database/how_to_delete_database_step_10)
-11. Wait until you receive successful message ![Step 11 of deleting a database]((https://github.com/samuelroiz/AWS_Overview/blob/main/Images/How_to_delete_database/how_to_delete_database_step_11)
+1. Find the search bar in top middle of the page ![Step 1 of deleting a database](https://github.com/samuelroiz/AWS_Overview/blob/main/Images/How_to_delete_database/how_to_delete_database_step_1)
+2. Type in  **Databases** ![Step 2 of deleting a database](https://github.com/samuelroiz/AWS_Overview/blob/main/Images/How_to_delete_database/how_to_delete_database_step_2_and_3)
+3.  Select  **Databases in RDS** ![Step 3 of deleting a database](https://github.com/samuelroiz/AWS_Overview/blob/main/Images/How_to_delete_database/how_to_delete_database_step_2_and_3)
+4. Select *database icon* ![Step 4 of deleting a database](https://github.com/samuelroiz/AWS_Overview/blob/main/Images/How_to_delete_database/how_to_delete_database_step_4)
+5. Select *Actions* ![Step 5 of deleting a database](https://github.com/samuelroiz/AWS_Overview/blob/main/Images/How_to_delete_database/how_to_delete_database_step_5)
+6. Select Delete ![Step 6 of deleting a database](https://github.com/samuelroiz/AWS_Overview/blob/main/Images/How_to_delete_database/how_to_delete_database_step_6)
+7. Unselect *Create final snapshot?* ![Step 7 of deleting a database](https://github.com/samuelroiz/AWS_Overview/blob/main/Images/How_to_delete_database/how_to_delete_database_step_7)
+8. Select *I acknowledge..." ![Step 8 of deleting a database](https://github.com/samuelroiz/AWS_Overview/blob/main/Images/How_to_delete_database/how_to_delete_database_step_8)
+9. Input "delete me" ![Step 9 of deleting a database](https://github.com/samuelroiz/AWS_Overview/blob/main/Images/How_to_delete_database/how_to_delete_database_step_9)
+10.  Select **Delete** ![Step 10 of deleting a database](https://github.com/samuelroiz/AWS_Overview/blob/main/Images/How_to_delete_database/how_to_delete_database_step_10)
+11. Wait until you receive successful message ![Step 11 of deleting a database](https://github.com/samuelroiz/AWS_Overview/blob/main/Images/How_to_delete_database/how_to_delete_database_step_11)
 
 ## Contributing
 
