@@ -157,7 +157,6 @@ Overview and important notes on Amazon Web Services on how it works, references,
 21. Select <b> Create Budget </b> 
 
 #### w/ visualization
-### How to set budget or control budget cost?
 1. Select <b> Account Name </b> (top right corner) ![Step 1 of setting up budget](https://github.com/samuelroiz/AWS_Overview/blob/main/Images/Budget/Set_Budget_Cost/set_budget_cost_step_1.png)
 2. Select <i> Billing Dashboard </i> ![Step 2 of setting up budget](https://github.com/samuelroiz/AWS_Overview/blob/main/Images/Budget/Set_Budget_Cost/set_budget_cost_step_2.png)
 3. Scroll down until you see <b> Budgets </b>
@@ -179,6 +178,40 @@ Overview and important notes on Amazon Web Services on how it works, references,
 19. Select <b> Next </b> ![Step 19 of setting up budget](https://github.com/samuelroiz/AWS_Overview/blob/main/Images/Budget/Set_Budget_Cost/set_budget_cost_step_19.png)
 20. Select <b> Next </b> ![Step 20 of setting up budget](https://github.com/samuelroiz/AWS_Overview/blob/main/Images/Budget/Set_Budget_Cost/set_budget_cost_step_20.png)
 21. Select <b> Create Budget </b> ![Step 21 of setting up budget](https://github.com/samuelroiz/AWS_Overview/blob/main/Images/Budget/Set_Budget_Cost/set_budget_cost_step_21.png)
+
+### How to create a security group?
+1.  Go to home page
+2.  Find the search bar in top middle of the page
+3.  Type in  **VPC**
+4.  Select  **VPC**
+5.  Select  _Security Groups_
+6.  Select **Create security group**
+7.  Input *Security group name*
+8.  Input *Description*
+9.  Ensure to select *Default for VPN* 
+10. Select **Add rule**
+11.  Click on *Custom TCP* 
+12. Select *MYSQL/Aurora*
+13. Click on *Custom*
+14. Select *Anywhere-IPv4*
+15. Select **Create security group**
+
+#### w/ visualizations
+1.  Go to home page ![Step 1 of setting up security group](https://github.com/samuelroiz/AWS_Overview/blob/main/Images/Security_Group/create_security_group_step_1.png)
+2.  Find the search bar in top middle of the page ![Step 2 of setting up security group](https://github.com/samuelroiz/AWS_Overview/blob/main/Images/Security_Group/create_security_group_step_2_and_3.png)
+3.  Type in  **VPC** ![Step 3 of setting up security group](https://github.com/samuelroiz/AWS_Overview/blob/main/Images/Security_Group/create_security_group_step_2_and_3.png)
+4.  Select  **VPC** ![Step 4 of setting up security group](https://github.com/samuelroiz/AWS_Overview/blob/main/Images/Security_Group/create_security_group_step_4.png)
+5.  Select  _Security Groups_ ![Step 5 of setting up security group](https://github.com/samuelroiz/AWS_Overview/blob/main/Images/Security_Group/create_security_group_step_5.png)
+6.  Select **Create security group** ![Step 6 of setting up security group](https://github.com/samuelroiz/AWS_Overview/blob/main/Images/Security_Group/create_security_group_step_6.png)
+7.  Input *Security group name* ![Step 7 of setting up security group](https://github.com/samuelroiz/AWS_Overview/blob/main/Images/Security_Group/create_security_group_step_7.png)
+8.  Input *Description* ![Step 8 of setting up security group](https://github.com/samuelroiz/AWS_Overview/blob/main/Images/Security_Group/create_security_group_step_8.png)
+9.  Ensure to select *Default for VPN* ![Step 9 of setting up security group](https://github.com/samuelroiz/AWS_Overview/blob/main/Images/Security_Group/create_security_group_step_9.png)
+10. Select **Add rule** ![Step 10 of setting up security group](https://github.com/samuelroiz/AWS_Overview/blob/main/Images/Security_Group/create_security_group_step_10.png)
+11.  Click on *Custom TCP* ![Step 11 of setting up security group](https://github.com/samuelroiz/AWS_Overview/blob/main/Images/Security_Group/create_security_group_step_11.png)
+12. Select *MYSQL/Aurora* ![Step 12 of setting up security group](https://github.com/samuelroiz/AWS_Overview/blob/main/Images/Security_Group/create_security_group_step_12.png)
+13. Click on *Custom* ![Step 13 of setting up security group](https://github.com/samuelroiz/AWS_Overview/blob/main/Images/Security_Group/create_security_group_step_13.png)
+14. Select *Anywhere-IPv4* ![Step 14 of setting up security group](https://github.com/samuelroiz/AWS_Overview/blob/main/Images/Security_Group/create_security_group_step_14.png)
+15. Select **Create security group** ![Step 15 of setting up security group](https://github.com/samuelroiz/AWS_Overview/blob/main/Images/Security_Group/create_security_group_step_15.png)
   
 ## Contributing
 
